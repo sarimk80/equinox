@@ -17,6 +17,7 @@ A [**Eva Design**](https://eva.design) implementation in Flutter.
 ## Tutorials and documentation
 
 You can check out the documentation in [**here**](https://pub.dev/documentation/equinox/latest/), and wiki in [**here**](https://github.com/kekland/equinox/wiki).
+You can also check out the youtube tutorial [**here**](https://youtu.be/msGpW956Owg), and wiki in [**here**](https://github.com/sarimk80/flutter_equinox).
 
 ## Getting started
 
